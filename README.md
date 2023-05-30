@@ -1,0 +1,2 @@
+# free-post
+bridge diode
